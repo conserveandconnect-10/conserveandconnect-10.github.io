@@ -1,0 +1,315 @@
+.div2 {
+    border: none;
+   border-top: .3em dashed #3B5c89 ;
+    height: 0px;
+    margin-top: -85px;
+  margin-left: 10px;
+    position: absolute;
+    width: 150%;
+}
+
+fadeone {
+    background-image: linear-gradient(transparent, white);
+  margin-top: -400px;
+    height: 400px;
+    width: 19024px;
+    position: absolute;
+}
+
+fade {
+    background-image: linear-gradient(#3B5c89, transparent);
+  margin-top: -550px;
+    height: 200px;
+    width: 1924px;
+    position: fixed;
+}
+
+.blocky {
+    background: white;
+    height: 8800px;
+ 	width: cover;
+    margin-left: 225px;
+    position: absolute;
+}
+
+.mount img {
+    margin-left: 200px;
+    margin-top: -460px;
+    width: 90%;
+    height: 1000px;
+  position: relative;
+}
+
+
+welc {
+    color: #3B5c89;
+    display: block;
+    font-size: 35px;
+    margin-left: 280px;
+    margin-top: -40px;
+    position: absolute;
+    background: transparent;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+welc1 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 10px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+welc2 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 60px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+sust {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 34px;
+    margin-left: 280px;
+    margin-top: 180px;
+    position: absolute;
+    background: transparent;
+    overflow: hidden;
+    width: 800px;
+    word-wrap: break-word;
+}
+
+sust1 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 230px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+sust2 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 300px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+sust3 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 370px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+why {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 34px;
+    margin-left: 280px;
+    margin-top: 490px;
+    position: absolute;
+    background: transparent;
+    overflow: hidden;
+    width: 800px;
+    word-wrap: break-word;
+}
+
+why1 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 540px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+why2 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 610px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+why3 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 680px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+se {
+    color: #3B5c89;
+    display: block;
+    font-size: 35px;
+    margin-left: 280px;
+    margin-top: -40px;
+    position: absolute;
+    background: transparent;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+se1 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 10px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+sw {
+    color: #3B5c89;
+    display: block;
+    font-size: 35px;
+    margin-left: 280px;
+    margin-top: -40px;
+    position: absolute;
+    background: transparent;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+sw1 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 10px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+rw {
+    color: #3B5c89;
+    display: block;
+    font-size: 35px;
+    margin-left: 280px;
+    margin-top: -40px;
+    position: absolute;
+    background: transparent;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+rw1 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 10px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+ce {
+    color: #3B5c89;
+    display: block;
+    font-size: 35px;
+    margin-left: 280px;
+    margin-top: -40px;
+    position: absolute;
+    background: transparent;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
+
+ce1 {
+    color: #3B5c89;
+    display: block;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 280px;
+    margin-top: 10px;
+    position: absolute;
+    background: transparent;
+    text-indent: 25px;
+    overflow: hidden;
+    width: 1350px;
+    word-wrap: break-word;
+}
